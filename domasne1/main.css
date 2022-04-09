@@ -1,0 +1,36 @@
+body{
+    background: darkmagenta;
+}
+img{
+    width: 400px;
+}
+
+h1
+{
+    background: rgb(17, 157, 213);
+    color: rgb(242,250,29);
+    text-align: center;
+}
+
+h2
+{
+    background: rgb(242, 250, 29);
+    text-align: center;
+}
+
+a{
+    color: rgb(17, 157, 213);
+}
+p{
+    background: green;
+    color: white;
+    text-align: justify;
+}
+ul
+{
+    background: black;
+}
+li{
+    background: black;
+    color: greenyellow;
+}
